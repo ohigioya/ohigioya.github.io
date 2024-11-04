@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ohigioya.github.io/faq/sitemap_index.txt
+Sitemap: https://ohigioya.github.io/hjV/sitemap_index.txt
+Sitemap: https://ohigioya.github.io/swk/sitemap_index.txt
+Sitemap: https://ohigioya.github.io/yva/sitemap_index.txt
